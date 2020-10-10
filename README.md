@@ -1,8 +1,9 @@
 ## Hi there 👋
-My name is Giulio and I am a student in the Robotics, Systems and Control Master of Science at ETH Zürich.  
-My main interests are computer vision and Human Robot Interaction.  
-🔭 I’m currently working on integrating assessments of quality of movement into an exoscheleton used for post-stroke rehabilitation of the upper extremities (unfortunately the code in not public 🙃).  
+My name is Giulio and I am a student at ETH Zürich, where I study Robotics, Systems and Control. My passion for robotics started with Wall-E with a sprinkling of Ironman. My main interest lies with robots in uncertain situation and their interaction with humans.  
+#
+🔭 I’m currently working on integrating assessments of quality of movement into an exoskeleton used for post-stroke rehabilitation of the upper extremities (unfortunately the code in not public 🙃).  
 🔭 Last semester me and some friends worked on porting and improving a framework for camera localization to Python/Pytorch for our 3D Vision course. You can find that here: https://github.com/Lippolis96/dsac_plusplus.  
+#
 💬 If you want to know more about me, my cv is at https://giuschio.github.io/online-cv/.
 <!--
 **giuschio/giuschio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
