@@ -4,7 +4,7 @@ My name is Giulio and I am a student at ETH Zürich, where I study Robotics, Sys
 🔭 I’m currently working on integrating assessments of quality of movement into an exoskeleton used for post-stroke rehabilitation of the upper extremities (unfortunately the code in not public 🙃).  
 🔭 Last semester me and some friends worked on porting and improving a framework for camera localization to Python/Pytorch for our 3D Vision course. You can find that here: https://github.com/Lippolis96/dsac_plusplus.  
 #
-💬 If you want to know more about me, my cv is at https://giuschio.github.io/online-cv/.
+💬 If you want to know more about me, you can find my cv [here](https://drive.google.com/file/d/1RBhrYeIo6SXG6-2Qfw4zft1-Gp2BiA_u/view?usp=sharing).
 <!--
 **giuschio/giuschio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
